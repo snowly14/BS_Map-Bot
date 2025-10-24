@@ -1,0 +1,4 @@
+disnake
+Pillow
+python-dotenv
+numpy

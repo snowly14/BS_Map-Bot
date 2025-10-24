@@ -15,7 +15,7 @@ Then, install the required dependencies:
 pip install disnake pillow numpy
 ```
 
-### 1️⃣ Install `python-dotenv`
+## 1️⃣ Install `python-dotenv`
 
 To keep your **Discord bot token** and other sensitive data secure
 
@@ -49,6 +49,7 @@ The bot generates `MAP_<image>.png` and sends it back.
 
 ---------------------------------------------------
 
-╔═══════════════════════╗
-║  Dev by Kanekidev 🐐  ║
-╚═══════════════════════╝
+╔════════════════════════╗
+║   👨‍💻 Dev by Kanekidev 🐐   ║
+╚════════════════════════╝
+

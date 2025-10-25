@@ -49,8 +49,6 @@ The bot generates `MAP_<image>.png` and sends it back.
 
 ---------------------------------------------------
 
-||========================||
-||     Dev by Kanekidev 🐐     ||
-||========================||
+# <---- Dev by Kanekidev 🐐 ---->
 
 
